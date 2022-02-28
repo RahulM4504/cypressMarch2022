@@ -1,0 +1,17 @@
+{
+  "name": "cypresspractice12july",
+  "version": "1.0.0",
+  "description": "firstcypressday",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "author": "RahulMhatre",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.10.0"
+  },
+  "dependencies": {
+    "clipboardy": "^2.3.0"
+  }
+}
